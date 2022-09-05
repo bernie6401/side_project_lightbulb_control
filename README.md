@@ -34,3 +34,15 @@
 * [IRRemote1](https://blog.xuite.net/aminyeh0825/blog/589725602#)
 * [IRRemote2](https://www.youtube.com/watch?v=5bfJTu5tekY&t=663s)
 * [WIFI1](https://www.youtube.com/watch?v=q-14MtNWltg)
+* [WIFI2](https://blog.hoyo.idv.tw/?p=4403)
+* [NodeMCU腳位](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-board/
+
+***
+
+## Recently Page for Ver.2
+* [1](https://lolwarden.pixnet.net/blog/post/82031214-%2A%E6%95%99%E5%AD%B8%2Aarduino-wifi%28esp8266%29-%E5%88%9D%E6%AC%A1%E4%B8%8A%E6%89%8B%E6%87%89%E7%94%A8)
+* [2](https://lolwarden.pixnet.net/blog/post/82060758)
+* [3](https://ithelp.ithome.com.tw/articles/10240199)
+* [4](https://www.chosemaker.com/board/esp32/lesson-3/)
+* [Very Important](https://honeststore.com.tw/esp8266-wifi-between-client-server/)
+* 
